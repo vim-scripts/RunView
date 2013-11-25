@@ -24,5 +24,5 @@ the source code window is left on top, but the results of filtering the three li
 	three
 RunView provides a title and a separator.  Subsequent applications of RunView will append a new separator line plus the new filter output.
 
-(alpha/beta version available at http://mysite.verizon.net/astronaut/vim/index.html#RUNVIEW)
+(alpha/beta version available at http://www.drchip.org/astronaut/vim/index.html#RUNVIEW)
 
